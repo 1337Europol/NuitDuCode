@@ -1,6 +1,6 @@
-"""Utilitaires."""
+"""utils"""
 
 from .constantes import *
-from .sons import Sons
+from .sons import initialiser_sons
 
-__all__ = ["Sons"]
+__all__ = ["initialiser_sons"]
