@@ -7,4 +7,4 @@ from .powerup import Powerup
 from .etoile import Etoile, ChampEtoiles
 from .explosion import Explosion
 
-__all__ = ["Ennemi", "Joueur", "Projectile", "Powerup", "Etoile", "Explosion"]
+__all__ = ["Ennemi", "Joueur", "Projectile", "Powerup", "Etoile", "ChampEtoiles", "Explosion"]
