@@ -1,4 +1,4 @@
-# Python
+# python
 __pycache__/
 *.py[cod]
 *$py.class
@@ -20,20 +20,20 @@ wheels/
 .installed.cfg
 *.egg
 
-# Virtual Environment
+# environement virtuel
 venv/
 env/
 ENV/
 
-# IDE
+# ton ide
 .vscode/
 .idea/
 *.swp
 *.swo
 
-# OS
+# os
 .DS_Store
 Thumbs.db
 
-# Assets (si vous ne voulez pas versionner les assets)
+# assets (si tu veux pas versionner les assets)
 # assets/

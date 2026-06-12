@@ -1,10 +1,10 @@
-"""Entités du jeu."""
+"""entité du jeu"""
 
 from .ennemi import Ennemi
 from .joueur import Joueur
 from .projectile import Projectile
-from .powerup import PowerUp
-from .etoile import Etoile
+from .powerup import Powerup
+from .etoile import Etoile, ChampEtoiles
 from .explosion import Explosion
 
-__all__ = ["Ennemi", "Joueur", "Projectile", "PowerUp", "Etoile", "Explosion"]
+__all__ = ["Ennemi", "Joueur", "Projectile", "Powerup", "Etoile", "ChampEtoiles", "Explosion"]

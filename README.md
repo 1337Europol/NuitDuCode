@@ -1,6 +1,6 @@
 # NuitDuCode
 
-Un jeu de tir spatial développé en Python avec Pygame.
+Un jeu de tir spatial développé en python avec pygame surtout pour tricher a NuitDuCode.
 
 ## Structure du projet
 

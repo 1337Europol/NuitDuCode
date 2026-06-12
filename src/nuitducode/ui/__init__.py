@@ -1,4 +1,4 @@
-"""Interface utilisateur."""
+"""interface pour user"""
 
 from .interface import Interface
 

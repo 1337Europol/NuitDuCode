@@ -1,4 +1,4 @@
-"""Logique du jeu."""
+"""logique du jeu"""
 
 from .jeu import Jeu
 
